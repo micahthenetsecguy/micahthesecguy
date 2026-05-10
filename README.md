@@ -9,7 +9,6 @@
 - 📝 **Writing:** <a href="https://medium.com/@micah_44192">Sharing my research on Medium</a>
 
 ### 📊 Github Stats
-<p align="left">
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=micahthesecguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🛠️ Tech Stack & Tools
