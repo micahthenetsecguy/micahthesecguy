@@ -15,5 +15,12 @@
 | **Automation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
 | **Defensive Ops** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![SIEM](https://img.shields.io/badge/SIEM%2FSOAR-Hardening-blue?style=flat-square) |
 
+### 🏋️ Current Training Cycles
+| Focus | Goal | Status |
+| :--- | :--- | :--- |
+| **Weight Class** | 2027 Powerlifting Comp Prep | 🟢 Active |
+| **Current Phase** | 3-Month Cut (Fat Loss / Retention) | 🟡 In Progress |
+| **Bodyweight Ops** | Caloric Deficit Hardening | 🔴 Critical (Hungry) |
+
 ### 📊 Github Stats
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=micahthesecguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
