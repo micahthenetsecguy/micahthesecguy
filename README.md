@@ -7,11 +7,13 @@
 - 🏋️ **Training:** Preparing for my first Powerlifting Meet in 2027.
 - 🐈 **Staff:** Managing two cats who think they're my senior devs.
 - 📝 **Writing:** <a href="https://medium.com/@micah_44192">Sharing my research on Medium</a>
-### 🛠️ Tech Stack & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=for-the-badge&logo=metasploit&logoColor=white)
+### 🛠️ Tech Stack & My Toold
+| Domain | Core Competencies & Technologies |
+| :--- | :--- |
+| **Cloud Security** | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Offensive / VR** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=flat-square&logo=metasploit&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-6F2FA1?style=flat-square) ![GDB](https://img.shields.io/badge/GDB-336699?style=flat-square) |
+| **Automation** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Defensive Ops** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![SIEM](https://img.shields.io/badge/SIEM%2FSOAR-Hardening-blue?style=flat-square) |
+
 ### 📊 Github Stats
 [![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=micahthesecguy&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
