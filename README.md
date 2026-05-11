@@ -5,7 +5,7 @@
 ### 🛠️ The SOC & The Squat Rack
 - 🛡️ **Defending:** Hardening systems and hunting 0-days.
 - 🏋️ **Training:** Preparing for my first Powerlifting Meet in 2027.
-- 🐈 **Staff:** Managing two cats who think they're my senior devs.
+- 🐈 **Staff:** Managing two cats who think they own my apartment.
 - 📝 **Writing:** <a href="https://medium.com/@micah_44192">Sharing my research on Medium</a>
 ### 🛠️ Tech Stack & My Tools
 | Domain | Core Competencies & Technologies |
