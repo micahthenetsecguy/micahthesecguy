@@ -15,6 +15,15 @@
 | **Ops & Automation** | ![Python](https://img.shields.io/badge/Python_Automation-3776AB?style=flat-square&logo=python&logoColor=white) ![Incident Response](https://img.shields.io/badge/Lead_IR_(CySA%2B)-D00000?style=flat-square) ![Tines](https://img.shields.io/badge/Tines_SOAR-000000?style=flat-square) |
 | **Lead & GRC** | ![SOC 2](https://img.shields.io/badge/SOC_2_Audit_Prep-lightgrey?style=flat-square) ![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK_Mapping-FF6600?style=flat-square) ![Risk Mgmt](https://img.shields.io/badge/Risk_Management-green?style=flat-square) |
 
+## 🎓 Professional Credentials
+
+| Status | Certification | Focus |
+| :--- | :--- | :--- |
+| ✅ **Active** | **CompTIA Security+** | Baseline Security & DoD Compliance |
+| ✅ **Active** | **Cisco CCNA** | Enterprise Networking & Infrastructure |
+| 🛡️ **Advanced** | **CompTIA CySA+** | Incident Response & Threat Hunting |
+| ☁️ **Specialist** | **Microsoft SC-200** | Security Operations & Sentinel Engineering |
+| 🎓 **In-Progress** | **ISC2 CISSP** | Security Leadership & Risk Management |
 ---
 ### 🏋️ Current Training Cycles
 | Focus | Goal | Status |
