@@ -20,5 +20,5 @@
 | Focus | Goal | Status |
 | :--- | :--- | :--- |
 | **Weight Class** | 2027 Powerlifting Comp Prep | 🟢 Active |
-| **Current Phase** | 3-Month Cut (Fat Loss / Retention) | 🟡 In Progress |
+| **Current Phase** | 3-Month Cut (Fat Loss / Retention) | 🟡 In Progress (lol struggling)|
 | **Bodyweight Ops** | Caloric Deficit Hardening | 🔴 Critical (Hungry) |
