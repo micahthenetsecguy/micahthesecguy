@@ -25,3 +25,4 @@
 
 
 ## The Goofballs
+<img width="1206" height="838" alt="IMG_9101" src="https://github.com/user-attachments/assets/7c649b3a-d136-46db-861c-da7eab002c97" />
