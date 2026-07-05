@@ -1,6 +1,6 @@
 # 🤙🏼 Hi, I'm Micah | Network & Infrastructure Specialist | Hybrid Athlete
 
-### 🛠️ The Rack & The Gym 😁
+### The Rack & The Gym
 - **Routing & Switching:** Optimizing global infrastructure, monitoring server health, and configuring enterprise networks.
 - **Automation:** Writing Python, PowerShell, and Azure CLI scripts to eliminate manual overhead and audit configurations.
 - **Training:** Pushing maximal force production and preparing for my first Powerlifting Meet in 2027.
