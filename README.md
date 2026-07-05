@@ -1,4 +1,4 @@
-# 🤙🏼 Hi, I'm Micah | Network Engineer & Infrastructure Specialist | Hybrid Athlete
+# 🤙🏼 Hi, I'm Micah | Network & Infrastructure Specialist | Hybrid Athlete
 
 ### 🛠️ The Rack & The Gym 😁
 - **Routing & Switching:** Optimizing global infrastructure, monitoring server health, and configuring enterprise networks.
